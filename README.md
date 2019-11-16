@@ -23,9 +23,9 @@ COMMAND PROMPT
 
     express --view=hbs express_Sequelize_RunningQueries_QueryOneActor
 
-(6) Once the process is complete, navigate into the express_Sequelize_RunningQueries_QueryAllActors directory: 
+(6) Once the process is complete, navigate into the express_Sequelize_RunningQueries_QueryOneActor directory: 
 
-    cd express_Sequelize_RunningQueries_QueryAllActors
+    cd express_Sequelize_RunningQueries_QueryOneActor
 
 (7) Now in the express_Sequelize_RunningQueries_QueryAllActors directory, run the following: 
 
