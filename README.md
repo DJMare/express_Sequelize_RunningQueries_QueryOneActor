@@ -113,7 +113,7 @@ COMMAND PROMPT
 
 WEB BROWSER
 
-(27) Navigate to localhost3000/actors to view the list of all actors.: 
+(27) Navigate to localhost3000/specificActor to view the list of all actors.: ![navigate to localhost3000-specificActor to view](https://user-images.githubusercontent.com/35668707/68999406-a9c6a400-088d-11ea-9515-5babd2146930.JPG)
 
 
 NODEMON NOTE
