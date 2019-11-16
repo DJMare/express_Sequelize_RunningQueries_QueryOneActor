@@ -102,7 +102,8 @@ VS CODE
 
 (24) In the routes/index.js file, require the models.: ![require models in the routes index js file (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999252-2b1d3700-088c-11ea-8400-bb4d1bddde9b.JPG)
 
-(25) Add a get() route for /actors to the routes/index.js file.: 
+(25) Add a get() route for /specificActor to the routes/index.js file.: ![add get() route for specificActor in index js file (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999396-7a179c00-088d-11ea-8f7e-b6baa17a7d21.JPG)
+
 
 COMMAND PROMPT
 
