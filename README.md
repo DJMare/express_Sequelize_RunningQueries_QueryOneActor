@@ -91,6 +91,7 @@ VS CODE
 
 (21) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application: ![open app js file (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999221-ad592b80-088b-11ea-9091-7c67a636e160.JPG)
 
+![require models in app js file (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999230-d4aff880-088b-11ea-9aaa-0dae418b1aa4.JPG)
 
 (22) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: 
 
