@@ -97,7 +97,8 @@ VS CODE
 
 (23) In the views folder, create a actors.hbs file and add code to show the names of the actors.: 
 
-(24) In the routes/index.js file, require the models.: 
+(24) In the routes/index.js file, require the models.: ![require models in the routes index js file (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999252-2b1d3700-088c-11ea-8400-bb4d1bddde9b.JPG)
+
 
 (25) Add a get() route for /actors to the routes/index.js file.: 
 
