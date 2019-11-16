@@ -54,7 +54,7 @@ COMMAND PROMPT
 
 VS CODE
 
-(13) Navigate to the routes/index.js file.: 
+(13) Navigate to the routes/index.js file.: ![open index js file (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999242-04f79700-088c-11ea-8005-c358fecca4e3.JPG)
 
 (14) Require mysql2 in routes/index.js file: 
 
