@@ -1,4 +1,4 @@
-# express_Sequelize_RunningQueries_QueryOneActor
+# Express_Sequelize_RunningQueries_QueryOneActor
 An express app utilizing sequelize to connect to mySQL and running specific query for one item. 
 
 COMMAND PROMPT
